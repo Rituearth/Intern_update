@@ -1,0 +1,79 @@
+<---Profile 1--->
+
+Profile Name :U Pavan varma
+Profile Image : https://hebbkx1anhila5yf.public.blob.vercel-storage.com/pavanvarma-IT-R22tfJKFZADCYwn4rIoAr6aOM1RTJZ.jpeg
+Profile Category (Area of expertise) : IT & Software
+Profile current position: Cloud Associate Amazon
+linkedIn: https://www.linkedin.com/in/uppalapati-sai-ganesh-pavan-varma-7989b4228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+<---Profile 2--->
+
+Profile Name : A Nikhil chaitanya
+Profile Image : https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Nikhil_projects-DcqWFC08YwlsPlqnRjM8KA49FxzR3B.jpeg
+Profile Category (Area of expertise) : Engineering Projects
+Profile current position: Design Engineer HAL
+linked in : https://www.linkedin.com/in/nikhilchaitanya?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+<---Profile 3--->
+
+Profile Name : Sk. Afzal
+Profile Image :https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Sk.Afzal_Projects-R28DaIp0P5hUzBlLWSSNP5hK0pn8oY.jpeg
+Profile Category (Area of expertise) : Engineering Projects
+Profile current position: Presentation Engineer ,WNS
+Linked in : https://www.linkedin.com/in/shaikafzal7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+<---Profile 4--->
+
+Profile Name : Damodar P
+Profile Image :https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Damu_IT-9v3cS8dxCfQDzkdPeOPbg3no1miqGM.jpeg
+Profile Category (Area of expertise) : IT & Software
+Profile current position: SeniorSecurityEngineer WELLSFARGO
+linked in : https://www.linkedin.com/in/damodar-perumallaa-b7a31387?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+<---Profile 5--->
+
+Profile Name : Teja surishetty
+Profile Image :https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Teja_Entreprenuer-sbVXG2h0HuJEL6oOdrW2DxIhAT1MwZ.jpeg
+Profile Category (Area of expertise) : Entreprenuership
+Profile current position: Founder@18startups
+Linked in : https://www.linkedin.com/in/surishettiteja?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+<---Profile 6--->
+
+Profile Name :Tarun PV
+Profile Image :https://hebbkx1anhila5yf.public.blob.vercel-storage.com/tarun_VLSI-mFvWEWg20DQP6ElAY11WpBG0LVlclk.jpeg
+Profile Category (Area of expertise) : Electronics and IC design, VLSI
+Profile current position:
+Linked in : https://www.linkedin.com/in/saitarunpelluru2020?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+<---Profile 7--->
+
+Profile Name : Melvin George M
+Profile Image : https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Melvin_projects-dtRYbAfW8IEMxOlDC5vV6fawmNNPRZ.jpeg
+Profile Category (Area of expertise) : Entreprenuership
+Profile current position: Founder @i3dFabs
+Linked in : https://www.linkedin.com/in/melvin-george-m-17051997?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+<---Profile 8--->
+
+Profile Name :Nagendra M
+Profile Image :https://hebbkx1anhila5yf.public.blob.vercel-storage.com/nagendrabro_It-V9s66h4g0jC8vFOPW8k3M7pkNIuej2.jpeg
+Profile Category (Area of expertise) : IT & Software
+Profile current position: Software Engineer,Propel labs
+Linked in : https://www.linkedin.com/in/nagendra-mantrabuddi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+<---Profile 9--->
+
+Profile Name : A Nikhil chaitanya
+Profile Image : https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Nikhil_projects-DcqWFC08YwlsPlqnRjM8KA49FxzR3B.jpeg
+Profile Category (Area of expertise) : Entreprenuership
+Profile current position: Founder Namoona 3DLabs
+Linked in : https://www.linkedin.com/in/nikhilchaitanya?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+<---Profile 10--->
+
+Profile Name :Tarun PV
+Profile Image :https://hebbkx1anhila5yf.public.blob.vercel-storage.com/tarun_VLSI-mFvWEWg20DQP6ElAY11WpBG0LVlclk.jpeg
+Profile Category (Area of expertise) : Engineering Projects
+Profile current position:
+Linked in : https://www.linkedin.com/in/saitarunpelluru2020?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+
